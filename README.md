@@ -12,4 +12,4 @@ Deze cursus is ontwikkeld door [Lars De Richter](https://github.com/lars-dericht
 
 Deze cursus en alle materialen die erbij horen zijn beschikbaar onder de volgende Creative Commons licentie: [Naamsvermelding-NietCommercieel-GelijkDelen 4.0 Internationaal (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl).
 
-[![CC BY-NC-SA 4.0](by-nc-nd.eu.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl)
+[![CC BY-NC-SA 4.0](by-nc-sa.eu.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.nl)
