@@ -1,6 +1,6 @@
 # Cursus Webontwikkeling
 
-Dit is het cursusmateriaal voor het vak Webontwikkeling. Deze cursus is een onderdeel van de opleiding [Webontwikkeling en Netwerkbeheer](https://webontwikkeling-netwerkbeheer.be/)aan het [Scheppersinstituut Deurne en Antwerpen](https://www.scheppers.be/).
+Dit is het cursusmateriaal voor het vak Webontwikkeling. Deze cursus is een onderdeel van de opleiding [Webontwikkeling en Netwerkbeheer](https://webontwikkeling-netwerkbeheer.be/) aan het [Scheppersinstituut Deurne en Antwerpen](https://www.scheppers.be/).
 
 Bij deze cursus hoort ook een Github repository: https://github.com/7-WN/webontwikkeling-cursus.
 
