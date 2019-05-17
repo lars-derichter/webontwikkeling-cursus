@@ -2,7 +2,7 @@
 
 Deze repository bevat het cursusmateriaal voor het vak Webontwikkeling.
 
-- Bekijk het curusmateriaal op https://7-wn.github.io/webontwikkeling-cursus/cursus.
+- Bekijk het curusmateriaal op https://7-wn.github.io/webontwikkeling-cursus/#/cursus/.
 - De slides vind je op https://7-wn.github.io/webontwikkeling-cursus/slides.
 
 Deze cursus is een onderdeel van de opleiding [Webontwikkeling en Netwerkbeheer](https://webontwikkeling-netwerkbeheer.be/) aan het [Scheppersinstituut Deurne en Antwerpen](https://www.scheppers.be/).
