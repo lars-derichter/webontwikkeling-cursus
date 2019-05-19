@@ -1,3 +1,9 @@
 [submodule "lib/reveal.js"]
 	path = lib/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
+[submodule "lib/docsify"]
+	path = lib/docsify
+	url = https://github.com/docsifyjs/docsify.git
+[submodule "lib/docsify-themable"]
+	path = lib/docsify-themable
+	url = https://github.com/jhildenbiddle/docsify-themeable.git
