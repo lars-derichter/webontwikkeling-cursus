@@ -1,0 +1,25 @@
+{
+  "name": "webontwikkeling-cursus",
+  "version": "1.0.0",
+  "description": "Cursusmateriaal voor het vak Webontwikkeling in de opleiding Webontwikkeling en Netwerkbeheer aan het Scheppersinstituut Deurne en Antwerpen",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7-WN/webontwikkeling-cursus.git"
+  },
+  "author": "Lars De Richter & Koen De Win",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/7-WN/webontwikkeling-cursus/issues"
+  },
+  "homepage": "https://7-wn.github.io/webontwikkeling-cursus/",
+  "dependencies": {
+    "docsify": "^4.9.4",
+    "docsify-pagination": "^2.4.0",
+    "docsify-themeable": "^0.7.2",
+    "reveal.js": "^3.8.0"
+  }
+}

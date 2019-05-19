@@ -9,12 +9,18 @@
 
     <title>reveal.js</title>
 
-    <link rel="stylesheet" href="../../lib/reveal.js/css/reset.css" />
-    <link rel="stylesheet" href="../../lib/reveal.js/css/reveal.css" />
-    <link rel="stylesheet" href="../../lib/reveal.js/css/theme/black.css" />
+    <link rel="stylesheet" href="../../node_modules/reveal.js/css/reset.css" />
+    <link rel="stylesheet" href="../../node_modules/reveal.js/css/reveal.css" />
+    <link
+      rel="stylesheet"
+      href="../../node_modules/reveal.js/css/theme/black.css"
+    />
 
     <!-- Theme used for syntax highlighting of code -->
-    <link rel="stylesheet" href="../../lib/reveal.js/lib/css/monokai.css" />
+    <link
+      rel="stylesheet"
+      href="../../node_modules/reveal.js/node_modules/css/monokai.css"
+    />
 
     <!-- Printing and PDF exports -->
     <script>
@@ -23,7 +29,7 @@
       link.type = "text/css";
       link.href = window.location.search.match(/print-pdf/gi)
         ? "css/print/pdf.css"
-        : "../../lib/reveal.js/css/print/paper.css";
+        : "../../node_modules/reveal.js/css/print/paper.css";
       document.getElementsByTagName("head")[0].appendChild(link);
     </script>
   </head>
@@ -45,7 +51,7 @@
       </div>
     </div>
 
-    <script src="../../lib/reveal.js/js/reveal.js"></script>
+    <script src="../../node_modules/reveal.js/js/reveal.js"></script>
 
     <script>
       // More info about config & dependencies:
@@ -53,11 +59,14 @@
       // - https://github.com/hakimel/reveal.js#dependencies
       Reveal.initialize({
         dependencies: [
-          { src: "../../lib/reveal.js/plugin/markdown/marked.js" },
-          { src: "../../lib/reveal.js/plugin/markdown/markdown.js" },
-          { src: "../../lib/reveal.js/plugin/notes/notes.js", async: true },
+          { src: "../../node_modules/reveal.js/plugin/markdown/marked.js" },
+          { src: "../../node_modules/reveal.js/plugin/markdown/markdown.js" },
           {
-            src: "../../lib/reveal.js/plugin/highlight/highlight.js",
+            src: "../../node_modules/reveal.js/plugin/notes/notes.js",
+            async: true
+          },
+          {
+            src: "../../node_modules/reveal.js/plugin/highlight/highlight.js",
             async: true
           }
         ]
