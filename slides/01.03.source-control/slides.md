@@ -36,13 +36,12 @@
 
 &&&
 
-- Geschiedenis van alle bestanden
-- Rollback/Undo
-- Waarom van aanpassingen
-- Blame game
-- Gelijktijdig werken aan een project
+# Dus
+
+- Geschiedenis van alle bestanden <!-- .element: class="fragment" -->
+- Rollback/Undo <!-- .element: class="fragment" -->
+- Waarom van aanpassingen <!-- .element: class="fragment" -->
+- Blame game <!-- .element: class="fragment" -->
+- Gelijktijdig werken aan een project <!-- .element: class="fragment" -->
 
 ---
-
-- punt 1 <!-- .element: class="fragment" -->
-- punt 2 <!-- .element: class="fragment" -->
