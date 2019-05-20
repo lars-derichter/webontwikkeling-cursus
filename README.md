@@ -11,7 +11,7 @@ Deze cursus is een onderdeel van de opleiding [Webontwikkeling en Netwerkbeheer]
 
 Om deze bestanden lokaal te bekijken heb je eerst [nodejs en npm](https://nodejs.org/) nodig en de docsify-cli. Nadat je nodejs geïnstalleerd hebt, volg je onderstaande stappen:
 
-1. Installeer docsify-cli:
+1. Installeer docsify-cli (vanaf je terminal of command prompt):
 
 ```
 npm install docsify-cli -g
