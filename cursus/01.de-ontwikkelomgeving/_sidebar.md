@@ -2,7 +2,7 @@
 - [01 De ontwikkelomgeving](cursus/01.de-ontwikkelomgeving/)
   - [01.01 Text editor](cursus/01.de-ontwikkelomgeving/01.text-editor.md)
   - [01.02 Browser](cursus/01.de-ontwikkelomgeving/02.browser.md)
-  - [01.03 Source Control](cursus/01.de-ontwikkelomgeving/03.source-control.md)
+  - [01.03 Version control](cursus/01.de-ontwikkelomgeving/03.version-control.md)
 - [02 HTML & CSS (basis)](cursus/02.html-css-basis/)
 - [03 CSS Frameworks](cursus/03.css-frameworks/)
 - [04 HTML & CSS (geavanceerd)](cursus/04.html-css-geavanceerd/)
