@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="../../node_modules/reveal.js/css/reveal.css" />
     <link
       rel="stylesheet"
-      href="../../node_modules/reveal.js/css/theme/black.css"
+      href="../../node_modules/reveal.js/css/theme/night.css"
     />
 
     <!-- Theme used for syntax highlighting of code -->
@@ -69,7 +69,21 @@
             src: "../../node_modules/reveal.js/plugin/highlight/highlight.js",
             async: true
           }
-        ]
+        ],
+
+        // Visibility rule for backwards navigation arrows; "faded", "hidden"
+        // or "visible"
+        controlsBackArrows: "visible",
+
+        // Display the page number of the current slide
+        slideNumber: true,
+
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+
+        // Push each slide change to the browser history. Implies `hash: true`
+        history: true
       });
     </script>
   </body>
