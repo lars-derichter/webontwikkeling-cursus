@@ -77,11 +77,15 @@ Notes:
 - In 2005 verzuurt de relatie tussen Bitkeeper en de Linux Kernel developers en Linus Torvalds bouwt een eigen open source systeem: git.
 - Momenteel is dit wereldwijd het meest gebruikte version control system.
 
-&&&
-
-## Github
+---
 
 <!-- .slide: data-background-image="_images/octocat.png" data-background-size="contain" data-background-opacity="0.5" -->
+
+# Github
+
+&&&
+
+## Wat?
 
 - centrale hosting server voor git repositories <!-- .element: class="fragment" -->
 - handige website om je code en geschiedenis te bekijken <!-- .element: class="fragment" -->
@@ -89,6 +93,32 @@ Notes:
 - studenten krijgen gratis Pro account <!-- .element: class="fragment" -->
 - broncode van de meeste open source projecten <!-- .element: class="fragment" -->
 - (eigendom van Microsoft sinds 2018) <!-- .element: class="fragment" -->
+
+&&&
+
+## Maak een Github account aan
+
+Gebruik je e-mailadres van school
+
+https://github.com/
+
+&&&
+
+## GitHub Student Developer Pack
+
+Vraag het ‘GitHub Student Developer Pack’ aan:
+
+https://education.github.com/pack
+
+&&&
+
+Mail je github gebruikersnaam naar mij
+
+&&&
+
+## Word lid van van 7-WN
+
+Je zal één (of meerdere) e-mail(s) krijgen met een activatielink. Activeer die!
 
 ---
 
@@ -153,4 +183,6 @@ Tot je begrijpt wat je doet…
 
 # Git in 3 minuten
 
-&&
+of 5 of 10…
+
+&&&
