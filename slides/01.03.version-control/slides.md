@@ -186,3 +186,17 @@ Tot je begrijpt wat je doet…
 of 5 of 10…
 
 &&&
+
+TODO:
+
+---
+
+# Belangrijke tips
+
+&&&
+
+Commit early, commit often!
+
+&&&
+
+TODO:
