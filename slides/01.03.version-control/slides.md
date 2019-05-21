@@ -84,7 +84,73 @@ Notes:
 <!-- .slide: data-background-image="_images/octocat.png" data-background-size="contain" data-background-opacity="0.5" -->
 
 - centrale hosting server voor git repositories <!-- .element: class="fragment" -->
+- handige website om je code en geschiedenis te bekijken <!-- .element: class="fragment" -->
 - gratis voor open source <!-- .element: class="fragment" -->
 - studenten krijgen gratis Pro account <!-- .element: class="fragment" -->
 - broncode van de meeste open source projecten <!-- .element: class="fragment" -->
 - (eigendom van Microsoft sinds 2018) <!-- .element: class="fragment" -->
+
+---
+
+# Git installeren
+
+&&&
+
+https://git-scm.com/downloads
+
+&&&
+
+## Windows gebruikers
+
+&&&
+
+Selecteer `Windows Explorer integration`
+
+![Selecteer Windows Explorer integration bij de installatie van git in Windows](_images/windows-git-install.png)
+
+&&&
+
+Selecteer `Use Visual Studio Code as Git’s default editor`
+
+![Selecteer Use Visual Studio Code as Git’s default editor bij de installatie van git in Windows](_images/windows-git-install-2.png)
+
+&&&
+
+Laat verder de defaults staan
+
+---
+
+# GUI vs. CLI
+
+&&&
+
+Gebruik command line!
+
+&&&
+
+Tot je begrijpt wat je doet…
+
+&&&
+
+## GUI
+
+- Verbergt complexiteit
+- Verbergt details
+- Beperkt mogelijkheden
+- Bemoeilijkt troubleshooting
+- **Je begrijpt niet wat je aan het doen bent**
+
+&&&
+
+## CLI
+
+- Leercurve, juiste commando's leren gaat niet vanzelf
+- Geen beperkingen op mogelijkheden
+- Instructies zijn éénduidig en compact
+- Makkelijker reproduceerbaar
+
+---
+
+# Git in 3 minuten
+
+&&
