@@ -6,4 +6,5 @@
 - [05 PHP & Templating](cursus/05.php-templating/)
 - [06 Flat-file CMS](cursus/06.flat-file-cms/)
 - [07 Frontend Javasctript](cursus/07.frontend-javascript/)
-- [08 Project](cursus/08.project/)
+- [08 Database CMS](cursus/08.database-cms/)
+- [09 Project](cursus/09-project/)
