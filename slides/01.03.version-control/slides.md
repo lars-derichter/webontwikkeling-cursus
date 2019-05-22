@@ -118,7 +118,7 @@ Mail je github gebruikersnaam naar mij
 
 &&&
 
-## Word lid van van 7-WN
+## Word lid van 7-WN
 
 Je zal één (of meerdere) e-mail(s) krijgen met een activatielink. Activeer die!
 
@@ -152,6 +152,11 @@ Laat verder de defaults staan
 
 ---
 
+- TODO: Mac gebruikers
+- TODO: git config
+
+---
+
 # GUI vs. CLI
 
 &&&
@@ -176,7 +181,7 @@ Tot je begrijpt wat je doet…
 
 ## CLI
 
-- Leercurve, juiste commando's leren gaat niet vanzelf
+- Leercurve: commando's leren gaat niet vanzelf
 - Geen beperkingen op mogelijkheden
 - Instructies zijn éénduidig en compact
 - Makkelijker reproduceerbaar
@@ -191,16 +196,16 @@ of 5 of 10…
 
 ## Initialiseer Git repository
 
+Deze stap doe je slechts 1 keer voor een project.
+
 1. open _Git Bash_ (Windows) of _Terminal_ (Mac/Linux)
 2. `mkdir git-test` om een nieuwe directory te maken
 3. `cd git-test` om in de directory te gaan
 4. `git init` om de directory te initialiseren als Git repository
 
-Deze stap doe je slechts 1 keer voor een project.
-
 Note:
 
-Met `ls -la`kan je controleren dat er nu een verborgen directory _.git_ is. Daarin zit alles wat Git nodig heeft om je geschiedenis bij te houden etc.
+Met `ls -la` kan je controleren dat er nu een verborgen directory _.git_ is. Daarin zit alles wat Git nodig heeft om je geschiedenis bij te houden etc.
 
 &&&
 
@@ -242,12 +247,12 @@ Met `git status` zie je dat het bestand nu bij _Changes to be commited_ staat.
 
 ## Je werk toevoegen aan je Git geschiedenis
 
-- `git status` om te controleren wat je gaat committen
-- `git commit -m "Testbestand toegevoegd"` om je wijzigingen (vanuit de staging area) toe te voegen aan je Git geschiedenis; de -m parameter krijgt tussen "" een logbericht
+1. `git status` om te controleren wat je gaat committen
+2. `git commit -m "Testbestand toegevoegd"` om je wijzigingen (vanuit de staging area) toe te voegen aan je Git geschiedenis; de -m parameter krijgt tussen "" een logbericht
 
 Notes:
 
-- `git status`laat zien dat er niets meer _gecommit_ kan worden _working tree clean_. Dat betekent dat al ons werk veilig opgeslagen zit in de versiegeschiedenis van Git.
+- `git status` laat zien dat er niets meer _gecommit_ kan worden _working tree clean_. Dat betekent dat al ons werk veilig opgeslagen zit in de versiegeschiedenis van Git.
 - Als je de -m parameter niet gebruikt, opent je standaard editor om je de kans te geven een logbericht te typen. De commit gaat pas door wanneer je dit bestand opslaat.
 
 &&&
@@ -268,11 +273,11 @@ Als je Git repository gesynchroniseerd zou worden met een Git server (bijv. van 
 
 Deze stappen herhaal je voortdurend:
 
-- programmeerwerk
-- `git status`
-- `git add <bestanden>`
-- `git commit -m "<logbericht>"`
-- (`git push`)
+1. programmeerwerk
+2. `git status`
+3. `git add <bestanden>`
+4. `git commit -m "<logbericht>"`
+5. (`git push`)
 
 &&&
 
@@ -292,7 +297,7 @@ Bij elke commit staat een lange reeks cijfers. Dit is een uniek id (het resultaa
 
 Notes:
 
-Je ziet dat de logberichten hier niet zoveel betekenen. Als je ooit terug moet naar een oudere versie, ga je hier niet veel aan hebben.
+Je ziet dat de logberichten hier niet zoveel betekenen. Als je ooit terug moet zoeken naar een specifieke, oudere versie, ga je hier niet veel aan hebben.
 
 &&&
 
