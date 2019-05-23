@@ -128,11 +128,11 @@ Je zal één (of meerdere) e-mail(s) krijgen met een activatielink. Activeer die
 
 &&&
 
-https://git-scm.com/downloads
+## Windows gebruikers
 
 &&&
 
-## Windows gebruikers
+https://git-scm.com/downloads
 
 &&&
 
@@ -152,7 +152,31 @@ Laat verder de defaults staan
 
 &&&
 
-TODO: Mac gebruikers
+## Mac gebruikers
+
+- op een mac installeer je eerst [Homebrew](https://docs.brew.sh/)
+- daarvoor heb je eerst Xcode Command Line Tools nodig
+- in Terminal `xcode-select --install` en volg de instructies
+
+&&&
+
+### Homebrew installeren
+
+in Terminal
+
+```
+mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
+```
+
+&&&
+
+### Git installeren
+
+in Terminal
+
+```
+brew install git
+```
 
 &&&
 
@@ -354,7 +378,16 @@ voor je medewerkers, voor je toekomstige zelf
 
 &&&
 
-TODO: aliases
+## Aliassen
+
+Om typwerk te besparen, kan je de volgende aliassen toevoegen aan je ~/.bashrc bestand
+
+```
+alias g='git '
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit -m'
+```
 
 ---
 
