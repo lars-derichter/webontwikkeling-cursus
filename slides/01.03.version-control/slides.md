@@ -150,10 +150,18 @@ Selecteer `Use Visual Studio Code as Git’s default editor`
 
 Laat verder de defaults staan
 
----
+&&&
 
-- TODO: Mac gebruikers
-- TODO: git config
+TODO: Mac gebruikers
+
+&&&
+
+## Git configureren
+
+In Git Bash (Windows) of Terminal (Mac) typ je:
+
+1. `git config --global user.name "<jouw naam>"`
+2. `git config --global user.email <jouw e-mailadres>`
 
 ---
 
@@ -198,7 +206,7 @@ of 5 of 10…
 
 Deze stap doe je slechts 1 keer voor een project.
 
-1. open _Git Bash_ (Windows) of _Terminal_ (Mac/Linux)
+1. open Git Bash (Windows) of Terminal (Mac/Linux)
 2. `mkdir git-test` om een nieuwe directory te maken
 3. `cd git-test` om in de directory te gaan
 4. `git init` om de directory te initialiseren als Git repository
@@ -315,17 +323,38 @@ Je ziet dat de logberichten hier niet zoveel betekenen. Als je ooit terug moet z
 
 &&&
 
-Commit early, commit often!
+## Commit early, commit often!
+
+beter een keer teveel je geschiedenis opslaan dan een keer te weinig
 
 &&&
 
-`git status` is je nieuwe beste vriend
+## `git status`: je nieuwe beste vriend
+
+- huidige toestand
+- geeft tips over volgende stap
+- of hoe je terug kan
 
 &&&
 
-Schrijf goede logberichten!
+## Schrijf goede logberichten!
+
+voor je medewerkers, voor je toekomstige zelf
 
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+
+&&&
+
+## Werk met ssh-keys
+
+1. In Git Bash (Windows) of Terminal (Mac/Linux): `ssh-keygen`
+2. Registreer je publieke sleutel (~/.ssh/id_rsa.pub) op Github
+
+[Adding a new SSH key to your GitHub account | Github](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+
+&&&
+
+TODO: aliases
 
 ---
 
