@@ -154,9 +154,13 @@ Laat verder de defaults staan
 
 ## Mac gebruikers
 
-- op een mac installeer je eerst [Homebrew](https://docs.brew.sh/)
-- daarvoor heb je eerst Xcode Command Line Tools nodig
-- in Terminal `xcode-select --install` en volg de instructies
+Op een mac installeer je Git best via de [Homebrew package manager.](https://docs.brew.sh/)
+
+&&&
+
+### Xcode Command Line Tools installeren
+
+in Terminal `xcode-select --install` en volg de instructies.
 
 &&&
 
@@ -180,12 +184,17 @@ brew install git
 
 &&&
 
-## Git configureren
+## Git configureren (iedereen)
 
 In Git Bash (Windows) of Terminal (Mac) typ je:
 
 1. `git config --global user.name "<jouw naam>"`
 2. `git config --global user.email <jouw e-mailadres>`
+
+Notes:
+
+- user.name: gebruik je echte naam bijv. Kevin Janssens
+- user.email: gebruik hetzelfde adres als op Github i.e. je e-mailadres van school
 
 ---
 
