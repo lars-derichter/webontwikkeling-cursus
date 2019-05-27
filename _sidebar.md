@@ -1,2 +1,3 @@
 - [Cursusmateriaal](cursus/)
 - [Slides](slides/)
+- [Opdrachten](opdrachten/)
