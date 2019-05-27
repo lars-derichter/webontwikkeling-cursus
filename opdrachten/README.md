@@ -9,4 +9,4 @@
 - [06 Flat-file CMS](opdrachten/06.flat-file-cms/)
 - [07 Frontend Javasctript](opdrachten/07.frontend-javascript/)
 - [08 Database CMS](opdrachten/08.database-cms/)
-- [09 Project](opdrachten/09-project/) -->
+- [09 Project](opdrachten/09-project/)
