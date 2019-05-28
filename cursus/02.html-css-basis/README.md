@@ -29,4 +29,4 @@ Zeker de nieuwere of meer experimentele onderdelen van HTML5 en CSS3 worden niet
 
 ## Codecademy voor extra oefening (en punten)
 
-Als je helemaal nog nooit met HTML gewerkt hebt, is het een goede extra oefening om de [Codecademy cursus: Introduction to HTML](https://www.codecademy.com/learn/learn-html) te doen. Als je deze voor eind oktober hebt afgewerkt, mag je ons een screenshot doorsturen waarmee je dit bewijst, en krijg je 1 keer 10/10 extra voor dit vak.
+!> Als je helemaal nog nooit met HTML gewerkt hebt, is het een goede extra oefening om de [Codecademy cursus: Introduction to HTML](https://www.codecademy.com/learn/learn-html) te doen. Als je deze voor eind oktober hebt afgewerkt, mag je ons een screenshot doorsturen waarmee je dit bewijst, en krijg je 1 keer 10/10 extra voor dit vak.
