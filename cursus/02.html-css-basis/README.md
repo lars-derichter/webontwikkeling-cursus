@@ -23,12 +23,10 @@ Zeker de nieuwere of meer experimentele onderdelen van HTML5 en CSS3 worden niet
 
 ### Tutorials
 
-TODO:
-
-### Boeken
-
-TODO:
+- [Introduction to HTML | MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
+- [Introduction to CSS | MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS)
+- [Introduction to HTML | Codecademy](https://www.codecademy.com/learn/learn-html)
 
 ## Codecademy voor extra oefening (en punten)
 
-TODO:
+Als je helemaal nog nooit met HTML gewerkt hebt, is het een goede extra oefening om de [Codecademy cursus: Introduction to HTML](https://www.codecademy.com/learn/learn-html) te doen. Als je deze voor eind oktober hebt afgewerkt, mag je ons een screenshot doorsturen waarmee je dit bewijst, en krijg je 1 keer 10/10 extra voor dit vak.
