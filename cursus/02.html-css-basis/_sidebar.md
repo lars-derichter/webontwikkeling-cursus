@@ -3,6 +3,7 @@
   - [01 De ontwikkelomgeving](cursus/01.de-ontwikkelomgeving/)
   - [02 HTML & CSS (basis)](cursus/02.html-css-basis/)
     - [02.01 HTML documenten](cursus/02.html-css-basis/02.01.html-documenten.md)
+    - [02.02 Structuurelementen](cursus/02.html-css-basis/02.02.structuurelementen.md)
   - [03 CSS Frameworks](cursus/03.css-frameworks/)
   - [04 HTML & CSS (geavanceerd)](cursus/04.html-css-geavanceerd/)
   - [05 PHP & Templating](cursus/05.php-templating/)
