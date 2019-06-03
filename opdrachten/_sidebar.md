@@ -1,6 +1,7 @@
 - [Cursusmateriaal](cursus/)
 - [Slides](slides/)
 - [Opdrachten](opdrachten/)
+  - [00 Portfolio](opdrachten/00.portfolio/)
   - [01 De ontwikkelomgeving](opdrachten/01.de-ontwikkelomgeving/)
   - [02 HTML & CSS (basis)](opdrachten/02.html-css-basis/)
   - [03 CSS Frameworks](opdrachten/03.css-frameworks/)
