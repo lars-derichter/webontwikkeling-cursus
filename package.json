@@ -21,6 +21,6 @@
     "docsify-copy-code": "^2.1.0",
     "docsify-pagination": "^2.4.0",
     "docsify-themeable": "^0.7.2",
-    "reveal.js": "^3.8.0"
+    "reveal.js": "^3.9.2"
   }
 }
