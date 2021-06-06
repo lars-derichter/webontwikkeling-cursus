@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "01d5f726be0124af",
+    "type": "split",
+    "children": [
+      {
+        "id": "b55a190363898512",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01.de-ontwikkelomgeving/03.version-control.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0c9c0f9b873d8106",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9b81581419aeb37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "229292862ae298b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d317c6f7735f267a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58d563b980fb0b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3ce599ef087eddc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70bd49f5ef439746",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01.de-ontwikkelomgeving/03.version-control.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b55a190363898512",
+  "lastOpenFiles": [
+    "01.de-ontwikkelomgeving/03.version-control.md",
+    "01.de-ontwikkelomgeving/02.browser.md",
+    "01.de-ontwikkelomgeving/01.text-editor.md",
+    "01.de-ontwikkelomgeving/README.md"
+  ]
+}
