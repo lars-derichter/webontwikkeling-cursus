@@ -2,14 +2,14 @@
 
 Deze repository bevat het cursusmateriaal voor het vak Webontwikkeling.
 
-- Bekijk het cursusmateriaal op https://webo.7wn.be/#/cursus/.
-- De slides vind je op https://webo.7wn.be/#/slides/.
-- De opdrachten vind je verzameld op: https://webo.7wn.be/#/opdrachten/.
-- De Github homepage van deze repository is: https://github.com/7-WN/webontwikkeling-cursus.
+- Bekijk het cursusmateriaal op https://lars-derichter.github.io/webontwikkeling-cursus/#/cursus/.
+- De slides vind je op https://lars-derichter.github.io/webontwikkeling-cursus/#/slides/.
+- De opdrachten vind je verzameld op: https://lars-derichter.github.io/webontwikkeling-cursus/#/opdrachten/.
+- De Github homepage van deze repository is: https://github.com/lars-derichter/webontwikkeling-cursus/webontwikkeling-cursus.
 - De repository klonen doe je best met deze URL:
 
 ```
-git@github.com:7-WN/webontwikkeling-cursus.git`
+https://github.com/lars-derichter/webontwikkeling-cursus.git
 ```
 
 Deze cursus is een onderdeel van de opleiding [Webontwikkeling en Netwerkbeheer](https://webontwikkeling-netwerkbeheer.be/) aan het [Scheppersinstituut Deurne en Antwerpen](https://www.scheppers.be/).
